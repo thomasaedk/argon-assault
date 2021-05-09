@@ -1,4 +1,4 @@
 # argon-assault
-Unity Game Developer course - section 4
+[Unity Game Developer course](https://relxlearning.udemy.com/course/unitycourse2/) - section 4
 
-Made in Unity version 2020.2.5f1
+Made with Unity version 2020.2.5f1
